@@ -114,6 +114,4 @@ git push -u origin main
 
 ---
 
-## Attribution
 
-Dataset: `topSongsLyrics1950_2019.csv` (include proper license/attribution if available).
