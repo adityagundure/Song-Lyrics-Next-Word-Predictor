@@ -6,9 +6,14 @@
 
 ---
 
-## Project Summary (auto-generated from notebook `/mnt/data/NEXT.ipynb`)
+## Project Summary (auto-gene<img width="1912" height="781" alt="Screenshot 2025-11-23 190708" src="https://github.com/user-attachments/assets/b03d185d-be6d-46ad-9fc1-cd5f188ffd8c" />
+rated from notebook `/mnt/data/NEXT.ipynb`)
 
 This project trains a neural language model on a dataset of popular song lyrics (`topSongsLyrics1950_2019.csv`) to predict the next word(s) given a lyric prompt. The notebook uses text preprocessing (tokenization, padding), sequence modeling with TensorFlow/Keras, and includes at least one visualization. A `predict_next_word` helper function exists in the notebook.
+<img width="1912" height="781" alt="Screenshot 2025-11-23 190708" src="https://github.com/user-attachments/assets/5508085f-f483-40b3-8549-3806e35b8f5b" />
+
+
+
 
 ---
 
